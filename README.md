@@ -28,7 +28,8 @@
 ## 📫 Contato
 
 - 📧 Email: carloscordeirodev@gmail.com  
-- 🔗 LinkedIn: [carlos-alexandre][(https://www.linkedin.com/in/carlosalexandree/)]
+- 🔗 LinkedIn: - 🔗 LinkedIn: [carlos-alexandre](https://www.linkedin.com/in/carlosalexandree/)
+
 
 ---
 
